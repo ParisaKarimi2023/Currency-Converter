@@ -71,3 +71,12 @@ Currency-Converter :
  <li>style.css</li>
 <li>script.js</li>
 </ul>
+
+
+-------------------
+
+
+## Conclusion
+
+The Currency Converter project successfully demonstrates the use of HTML, CSS, and JavaScript to create a practical and interactive web application.
+It strengthens understanding of front-end development concepts and provides a solid foundation for more advanced financial applications.
