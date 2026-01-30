@@ -65,8 +65,9 @@ The main objectives of this project are:
 ----------------------------------
 
 ## Project Structure
-Currency-Converter/
-│
-├── index.html
-├── style.css
-└── script.js
+Currency-Converter :
+<ul>
+<li>index.html</li>
+ <li>style.css</li>
+<li>script.js</li>
+</ul>
