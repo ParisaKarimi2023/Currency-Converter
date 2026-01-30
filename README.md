@@ -61,3 +61,12 @@ The main objectives of this project are:
 <li>Simple and clean user interface</li>
 
 </ul>
+
+----------------------------------
+
+## Project Structure
+Currency-Converter/
+│
+├── index.html
+├── style.css
+└── script.js
